@@ -12,8 +12,8 @@
 </h2>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jona615m&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jona615m&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jona615m&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jona615m&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
