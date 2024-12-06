@@ -4,7 +4,7 @@
     I'm a SE student at Southern Danish University
 </h2>
 <div align="center">
- <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl1M3VzNm1lOTVwd3c3eGppdTMyNnF4MTZubnp4dDBhZWdocjJucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" />
+ <img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dmZ3c3YTUwdDNwb3oxaXEzdDh2ZTU2Mml5dXR2bzhwZjNmZzhrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lGnSl7HMUqY8vu/giphy.webp" />
 </div>
 
 <h2 align="center">
@@ -12,8 +12,8 @@
 </h2>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jona615m&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jona615m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jona615m&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jona615m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
