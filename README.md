@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jonas Olesen</h1>
+<h2 align="center">
+    <img src="https://komarev.com/ghpvc/?username=jona615m&color=gray"> <br>
+    I'm a SE student at Southern Danish University
+</h2>
+<div align="center">
+ <img alt="GIF" src="https://media4.giphy.com/media/8gSh4No47eIGA/giphy.gif?cid=ecf05e47twhj7anl4h4j0ooyyjr13omfv9hk60bvkfwd4euc&rid=giphy.gif&ct=g" />
+</div>
 
-<!--
-**Jona615m/Jona615m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  <img align="center" src="https://github.com/Jona615m/Jona615m/blob/main/icons/stats.gif" width="32"/> Stats
+</h2>
+<div align="center">
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jona615m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jona615m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
