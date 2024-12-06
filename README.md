@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jonas Olesen</h1>
 <h2 align="center">
     <img src="https://komarev.com/ghpvc/?username=jona615m&color=gray"> <br>
-    I'm a SE student at Southern Danish University
+    I'm a SE student at Southern Danish University on my first semester
 </h2>
 <div align="center">
  <img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm95MTAwenNwamk3ZjUzMzF3cWJybGNkNmNkcjVoYjV2eWlrYWNoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYOQf3slpw8AMuBa6N/giphy.webp" />
