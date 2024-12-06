@@ -13,7 +13,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jona615m&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jona615m&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
