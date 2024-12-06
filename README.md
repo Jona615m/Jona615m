@@ -4,7 +4,7 @@
     I'm a SE student at Southern Danish University
 </h2>
 <div align="center">
- <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVoa21oeWtmYm5uZ241ZHd2ankzcjNubjV5c3JibmRoZjBqbGttdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwjH2ScRcqg6bbq/giphy.webp" />
+ <img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm95MTAwenNwamk3ZjUzMzF3cWJybGNkNmNkcjVoYjV2eWlrYWNoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYOQf3slpw8AMuBa6N/giphy.webp" />
 </div>
 
 <h2 align="center">
